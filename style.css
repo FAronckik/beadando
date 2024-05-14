@@ -1,9 +1,11 @@
 .card {
     display: inline-block;
-    background-color:rgb(48, 111, 139);
-    color:rgb(3, 37, 53)
+    background-color:rgb(255, 161, 107);
+    color:rgb(119, 76, 12)
 }
 
 body {
-    background-color: rgb(89, 149, 177);
+    background-color: rgb(255, 161, 107);
+    padding-top: 10;
+    
 }
